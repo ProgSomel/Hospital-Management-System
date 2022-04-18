@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\1.Versity\6.Semester6%28Spring 2022-2023%29\1. Object Oriented Programming 2 [E]\2,Final Term\2.Final Project\Final Submission\Final Project\Hospital-Management-System-Master\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Component\Admin\AccountantCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Admin\AdminHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Admin\AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Admin\AppointmentApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Admin\DoctorCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Admin\NurseCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Admin\Suggestions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\AppointmentFormPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\DoctorAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\DoctorArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\DoctorBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\DoctorLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\DoctorsCurrentPatientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Doctor\DoctorTimeTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Employee\EmployeeMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\ExtraFeature\FloorMap1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\ExtraFeature\MainFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Home\DoctorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Patient\CurrentAppointments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Patient\PatientBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Patient\PatientLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Patient\PatientProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Patient\PatientRegestration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Component\Patient\ShowDoctorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
